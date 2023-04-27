@@ -2,6 +2,7 @@ package models
 
 import "time"
 
+// this is the comment
 type Person struct {
 	ID        string     `json:"id"`
 	Firstname string     `json:"firstname"`
